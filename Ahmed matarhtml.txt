@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Ahmed Matar</title>
+    <link rel="icon" href="file:///C:/Users/nsr/Pictures/11home.png">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="script.js">
+</head>
+
+
+
+
+<body>
+    <header class="header">
+        <a href="Ahmed matar.html" class="logo">احمد مطر</a>
+
+        <nav class="navbar">
+            <a href="Ahmed matar.html" class="active" style="--i:1;">الرئيسية</a>
+            
+            <a href="dross.html" style="--i:3;">جدول الحصص</a>
+            <a href="الكادر التدريسي.html" style="--i:4;">الكادر التدريسي</a>
+            <a href="تسجيل الدخول.html" style="--i:5;" class="active">تسجيل الدخول</a>
+        </nav>
+    </header>
+
+    <section class="home">
+        <div class="home-content">
+            <h3>مرحباً بك</h3>
+            <h1>ثانوية احمد مطر</h1>
+            <h3>هي ثانوية تأسست <span class="multiple-text">2020-2021م</span></h3>
+            <p> .تابعة الى مديرية تربية الرصافة الثانية, تقوم بتدريس الفرع الادبي ولديها كادر تدريسي متميز عدد طلابها اكثر من 300 طالب , مديرها الاستاذ عبد العظيم.</p>
+            <div class="social-media">
+                <a href="https://t.me/ahmedmotarr" style="--i:6;"><i class='bx bxl-telegram'></i></a>
+                <a href="https://www.facebook.com/groups/892783028894153/about/" style="--i:8;"><i class='bx bxl-facebook'></i></a>
+                <a href="https://www.google.com/maps/place/%D9%85%D8%AF%D8%B1%D8%B3%D8%A9+%D8%A7%D8%A8%D9%86+%D8%AE%D9%84%D8%AF%D9%88%D9%86+%D9%88+%D9%85%D8%AF%D8%B1%D8%B3%D8%A9+%D8%A7%D8%AD%D9%85%D8%AF+%D9%85%D8%B7%D8%B1+%D9%88+%D9%85%D8%AF%D8%B1%D8%B3%D8%A9+%D8%A7%D9%84%D8%B9%D9%87%D8%AF+%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF+%D9%88+%D9%85%D8%AF%D8%B1%D8%B3%D8%A9+%D8%A7%D9%84%D8%A7%D9%84%D8%A8%D8%A7%D8%A8+%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%A6%D9%8A%D8%A9%E2%80%AD/@33.3644817,44.498479,15.45z/data=!4m6!3m5!1s0x15579b358877e905:0x46d2a98afeb2f71!8m2!3d33.3643159!4d44.4936856!16s%2Fg%2F1hm469g72?authuser=0&entry=ttu&g_ep=EgoyMDI0MTAxNC4wIKXMDSoASAFQAw%3D%3D" style="--i:10;"><i class='bx bx-map'></i></a>
+
+            </div>
+            <a href="https://www.instagram.com/ihe_38/" class="btn">!مبرمج الموقع</a>
+        </div>
+
+        <div class="home-img">
+            <img src="home.png" alt="">
+        </div>
+
+    </section>
+    
+    <section>
+        <div class="wave wave1"></div>
+        <div class="wave wave2"></div>
+        <div class="wave wave3"></div>
+        <div class="wave wave4"></div>
+    </section>
+    
+    
+  <div class="loader">
+    <span class="loader-text">loading</span>
+      <span class="load"></span>
+  </div>
+
+  <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
+  <script src="script.js"></script>
+    
+</body>
+</html>
